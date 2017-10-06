@@ -2,4 +2,4 @@ Changes from the testBranch
 merge conflict on this line!
 changes from thirdBranch
 a second merge conflict
-
+line added in master
