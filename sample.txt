@@ -1,3 +1,4 @@
 Changes from the testBranch
 changes from thirdBranch
 a second merge conflict
+line for 3rd branch only
